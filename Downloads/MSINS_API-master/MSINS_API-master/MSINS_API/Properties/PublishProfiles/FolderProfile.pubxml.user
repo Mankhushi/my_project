@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish\MSINS\14Oct24_1</_PublishTargetUrl>
+    <History>True|2025-10-14T08:29:36.4705279Z;True|2025-10-14T12:47:40.7037874+05:30;True|2025-10-14T12:44:26.5039931+05:30;True|2025-01-17T12:17:01.8815506+05:30;True|2025-01-17T12:05:23.1236793+05:30;True|2025-01-15T17:36:48.4722004+05:30;True|2025-01-15T17:07:50.5991319+05:30;True|2025-01-15T15:22:05.4267291+05:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=srv06.inetbase.com%3bDatabase=msins%3bIntegrated Security=False%3bTrusted_Connection=False%3bEncrypt=false%3bTrustServerCertificate=true%3bUser=msinsUser%3bPassword=h%40199N4nk</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
